@@ -64,7 +64,7 @@ const Hero = () => {
   // const three = <h3 className="big-heading">I build things for the web.</h3>;
   const three = (
     <>
-      <p>I'm a Senior Computer Science Student at Columbia University.</p>
+      <p>and I am a software engineer.</p>
     </>
   );
 

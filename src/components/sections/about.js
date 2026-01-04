@@ -152,10 +152,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Hasan and I am a fourth-year Computer Science student at Columbia
-              University. I am highly passionate about software development, with experience in
-              back-end and blockchain development, and I have additional interests in machine
-              learning. I am always striving for new opportunities and ways to improve.
+              Hello! I’m Hasan, a Computer Science graduate from Columbia University. I’m passionate
+              about software development, with experience in backend and blockchain engineering, and
+              growing interests in AI agents and LLMs. I’m always looking for opportunities to build
+              impactful products and keep improving as an engineer.
             </p>
 
             <p>Here are the technologies I’ve been working with recently:</p>
